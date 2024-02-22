@@ -1,4 +1,4 @@
-# README - Meu Currículo
+# README - Meu Primeiro Projeto
 Este foi o meu primeiro projeto no GitHub. Seu armazenamento neste repositório refere-se como marco de uma história de armazenamentos de códigos e projetos, com o propósito de estudos e aperfeiçoamento profissional.
 
 Segue o link:
